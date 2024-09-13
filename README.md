@@ -7,6 +7,8 @@
 [![Linkedin: RaviVaghela](https://img.shields.io/badge/-RaviVaghela-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/ravi-vaghela-6534461a2/)](https://www.linkedin.com/in/ravi-vaghela-6534461a2/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/RaviVaghela-svg?label=follow&style=social)](https://github.com/RaviVaghela-svg)
 <br>
+<img align="center" alt="Coding" width="750" height="400" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"></br>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviVaghela-svg&layout=compact&theme=gotham&custom_title=Statistics)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaviVaghela-svg&show_icons=true&theme=radical)
